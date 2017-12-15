@@ -10,7 +10,7 @@ namespace reposProjet
     {
         static void Main(string[] args)
         {
-            //deux personnes
+            //repos deux
         }
     }
 }
